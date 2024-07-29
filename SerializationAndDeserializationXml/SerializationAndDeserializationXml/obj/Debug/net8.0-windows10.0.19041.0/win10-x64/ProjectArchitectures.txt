@@ -1,0 +1,1 @@
+D:\Tests\SerializationAndDeserializationXml\SerializationAndDeserializationXml\SerializationAndDeserializationXml.csproj;x64

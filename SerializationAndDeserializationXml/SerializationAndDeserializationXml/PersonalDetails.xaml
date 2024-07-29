@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SerializationAndDeserializationXml"
+             x:Class="SerializationAndDeserializationXml.PersonalDetails">
+    <ContentView.BindingContext>
+        <local:PersonalVM/>
+    </ContentView.BindingContext>
+    <VerticalStackLayout>
+        <StackLayout Padding="20">
+            <Label Text="Add Details" FontSize="24" HorizontalOptions="CenterAndExpand" Margin="0,0,0,20"/>
+            <Entry Placeholder="First Name" x:Name="FirstNameEntry" Text="{Binding Person.FirstName}" WidthRequest="400" Margin="0,0,0,10"/>
+            <Entry Placeholder="Last Name" x:Name="LastNameEntry" Text="{Binding Person.LastName}" WidthRequest="400" Margin="0,0,0,10"/>
+            <Entry Placeholder="Email" x:Name="EmailEntry" Text="{Binding Person.EmailID}"  WidthRequest="400" Margin="0,0,0,10"/>
+            <StackLayout Orientation="Horizontal" 
+                         HorizontalOptions="CenterAndExpand">
+                <Button Text="load" Command="{Binding LoadCommand}" Margin="10,0"/>
+                <Button Text="Save" Command="{Binding SaveCommand}" Margin="10,0"/>
+            </StackLayout>
+        </StackLayout>
+    </VerticalStackLayout>
+</ContentView>

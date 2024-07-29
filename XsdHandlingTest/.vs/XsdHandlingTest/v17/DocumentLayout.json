@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tests\\XsdHandlingTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9916C6-ED2A-4D40-A5BC-C278454B2A67}|XsdHandlingTest\\XsdHandlingTest.csproj|D:\\Tests\\XsdHandlingTest\\xsdhandlingtest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6A9916C6-ED2A-4D40-A5BC-C278454B2A67}|XsdHandlingTest\\XsdHandlingTest.csproj|solutionrelative:xsdhandlingtest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9916C6-ED2A-4D40-A5BC-C278454B2A67}|XsdHandlingTest\\XsdHandlingTest.csproj|d:\\tests\\xsdhandlingtest\\xsdhandlingtest\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9916C6-ED2A-4D40-A5BC-C278454B2A67}|XsdHandlingTest\\XsdHandlingTest.csproj|solutionrelative:xsdhandlingtest\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9916C6-ED2A-4D40-A5BC-C278454B2A67}|XsdHandlingTest\\XsdHandlingTest.csproj|d:\\tests\\xsdhandlingtest\\xsdhandlingtest\\xmlserializerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9916C6-ED2A-4D40-A5BC-C278454B2A67}|XsdHandlingTest\\XsdHandlingTest.csproj|solutionrelative:xsdhandlingtest\\xmlserializerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9916C6-ED2A-4D40-A5BC-C278454B2A67}|XsdHandlingTest\\XsdHandlingTest.csproj|D:\\Tests\\XsdHandlingTest\\xsdhandlingtest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9916C6-ED2A-4D40-A5BC-C278454B2A67}|XsdHandlingTest\\XsdHandlingTest.csproj|solutionrelative:xsdhandlingtest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 296,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Tests\\XsdHandlingTest\\XsdHandlingTest\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "XsdHandlingTest\\MainWindow.xaml",
+              "ToolTip": "D:\\Tests\\XsdHandlingTest\\XsdHandlingTest\\MainWindow.xaml",
+              "RelativeToolTip": "XsdHandlingTest\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-27T08:13:37.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Tests\\XsdHandlingTest\\XsdHandlingTest\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "XsdHandlingTest\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Tests\\XsdHandlingTest\\XsdHandlingTest\\MainWindow.xaml.cs",
+              "RelativeToolTip": "XsdHandlingTest\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:13:34.307Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 296,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XmlSerializerService.cs",
+              "DocumentMoniker": "D:\\Tests\\XsdHandlingTest\\XsdHandlingTest\\XmlSerializerService.cs",
+              "RelativeDocumentMoniker": "XsdHandlingTest\\XmlSerializerService.cs",
+              "ToolTip": "D:\\Tests\\XsdHandlingTest\\XsdHandlingTest\\XmlSerializerService.cs",
+              "RelativeToolTip": "XsdHandlingTest\\XmlSerializerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T19:02:50.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Tests\\XsdHandlingTest\\XsdHandlingTest\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "XsdHandlingTest\\MainViewModel.cs",
+              "ToolTip": "D:\\Tests\\XsdHandlingTest\\XsdHandlingTest\\MainViewModel.cs",
+              "RelativeToolTip": "XsdHandlingTest\\MainViewModel.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAswGIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:18:52.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
